@@ -10,6 +10,11 @@ http://download.processing.org/processing-3.2.1-windows64.zip
 
 3.inkspace
 https://inkscape.org/en/download/
+https://filehippo.com/download_inkscape/download/14097c686d05d42454723d3d26251843/
+
+
+4.CAmotics
+http://camotics.org/releases/public/release/camotics/windows-10-64bit/v1.1/camotics_1.1.1_AMD64.exe
 
 
 
